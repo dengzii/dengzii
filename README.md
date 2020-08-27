@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![dengzii's github](https://github-readme-stats.vercel.app/api?username=dengzii&show_icons=true&title_color=128c50&icon_color=589b7a&text_color=555555&bg_color=DDDDDD)
 
