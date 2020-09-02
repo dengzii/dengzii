@@ -1,16 +1,14 @@
+<p align="center">
+  <a href="https://github.com/dengzii">
+    <img src="https://github-readme-stats.vercel.app/api?username=dengzii&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 
-![dengzii's github](https://github-readme-stats.vercel.app/api?username=dengzii&show_icons=true&title_color=128c50&icon_color=589b7a&text_color=555555&bg_color=DDDDDD)
-
-<!--
-**dengzii/dengzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/dengzii">
+    <img src="https://komarev.com/ghpvc/?username=dengzii&color=brightgreen&label=Views" />
+  </a>  
+  <a href="https://github.com/dengzii">
+    <img src="https://img.shields.io/github/last-commit/dengzii/dengzii?label=Update" />
+  </a>  
+</p>
